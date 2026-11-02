@@ -7,4 +7,4 @@ def subtract(a, b):
 if __name__ == "__main__":
     print("Jenkins CI/CD Demo")
     print("Addition:", add(10, 20))
-    print("Subtraction:", subtract(20, 10))
+    print("Updated Jenkins CI/CD Project")
